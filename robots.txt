@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://github.com/Sebas0f/sample-index-app/sitemap.xml
